@@ -1,0 +1,32 @@
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.csproj.GenerateResource.cache
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.AssemblyInfoInputs.cache
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.AssemblyInfo.cs
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.csproj.CoreCompileInputs.cache
+C:\Users\fan1_\source\repos\WS\WS\bin\Debug\net8.0-windows\WS.exe
+C:\Users\fan1_\source\repos\WS\WS\bin\Debug\net8.0-windows\WS.deps.json
+C:\Users\fan1_\source\repos\WS\WS\bin\Debug\net8.0-windows\WS.runtimeconfig.json
+C:\Users\fan1_\source\repos\WS\WS\bin\Debug\net8.0-windows\WS.dll
+C:\Users\fan1_\source\repos\WS\WS\bin\Debug\net8.0-windows\WS.pdb
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.dll
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\refint\WS.dll
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.pdb
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.genruntimeconfig.cache
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\ref\WS.dll
+C:\Users\fan1_\source\repos\WS\WS\obj\Debug\net8.0-windows\WS.FormWS.resources
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.FormWS.resources
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.csproj.GenerateResource.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.AssemblyInfoInputs.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.AssemblyInfo.cs
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.csproj.CoreCompileInputs.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.dll
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\refint\WS.dll
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.pdb
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\bin\Debug\net8.0-windows\WS.exe
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\bin\Debug\net8.0-windows\WS.deps.json
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\bin\Debug\net8.0-windows\WS.runtimeconfig.json
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\bin\Debug\net8.0-windows\WS.dll
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\bin\Debug\net8.0-windows\WS.pdb
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\WS.genruntimeconfig.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WS1\WS\obj\Debug\net8.0-windows\ref\WS.dll

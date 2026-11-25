@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\ws\\ws1\\ws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|solutionrelative:ws\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\ws\\ws1\\ws\\formws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|solutionrelative:ws\\formws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\ws\\ws1\\ws\\formws.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|solutionrelative:ws\\formws.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\ws\\ws1\\ws\\formws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|solutionrelative:ws\\formws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\ws\\ws1\\ws\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|solutionrelative:ws\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\ws\\ws1\\ws\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AA84B8-B648-4EDC-8E2F-23543A7E6D1C}|WS\\WS.csproj|solutionrelative:ws\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormWS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\FormWS.cs",
+              "RelativeDocumentMoniker": "WS\\FormWS.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\FormWS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WS\\FormWS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:36:00.038Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormWS.Designer.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\FormWS.Designer.cs",
+              "RelativeDocumentMoniker": "WS\\FormWS.Designer.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\FormWS.Designer.cs",
+              "RelativeToolTip": "WS\\FormWS.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:24:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormWS.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\FormWS.cs",
+              "RelativeDocumentMoniker": "WS\\FormWS.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\FormWS.cs",
+              "RelativeToolTip": "WS\\FormWS.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:29:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\Program.cs",
+              "RelativeDocumentMoniker": "WS\\Program.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\Program.cs",
+              "RelativeToolTip": "WS\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:52:53.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\Mensaje.cs",
+              "RelativeDocumentMoniker": "WS\\Mensaje.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\Mensaje.cs",
+              "RelativeToolTip": "WS\\Mensaje.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:30:17.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\Usuario.cs",
+              "RelativeDocumentMoniker": "WS\\Usuario.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\WS\\WS1\\WS\\Usuario.cs",
+              "RelativeToolTip": "WS\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:53:36.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

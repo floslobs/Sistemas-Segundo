@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\comprasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\comprasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\compratalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\compratalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\compraproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\compraproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\marcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\marcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\beventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\beventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\talledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\talledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\talle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\talle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\betalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\betalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\fe\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:fe\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\becliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\becliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\betalleproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\betalleproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\beproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\beproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\becompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\becompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\bemarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\bemarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\be\\beproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:be\\beproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\ventastallesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\ventastallesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\ventasproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\ventasproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\proveedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\proveedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\comprastallesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\comprastallesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\comprasproductosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\comprasproductosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\talleproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\talleproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\tipoproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\tipoproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\talleproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\talleproductodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\ventatalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\ventatalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\ventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\ventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\movimientoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\movimientoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\modelos\\movimientocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:modelos\\movimientocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\proyectotienda\\tiendaropa\\formpadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:formpadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\formpadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FACA07E7-7496-4358-B08A-B722120B8ED5}|TiendaRopa.csproj|solutionrelative:formpadre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BEVentas.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEVentas.cs",
+              "RelativeDocumentMoniker": "BE\\BEVentas.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEVentas.cs",
+              "RelativeToolTip": "BE\\BEVentas.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:43:35.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompraTalle.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\CompraTalle.cs",
+              "RelativeDocumentMoniker": "MODELOS\\CompraTalle.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\CompraTalle.cs",
+              "RelativeToolTip": "MODELOS\\CompraTalle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:10:47.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarcaDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\MarcaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\MarcaDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\MarcaDAL.cs",
+              "RelativeToolTip": "DAL\\MarcaDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:57:58.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Compra.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Compra.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Compra.cs",
+              "RelativeToolTip": "MODELOS\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:08:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Cliente.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Cliente.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Cliente.cs",
+              "RelativeToolTip": "MODELOS\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:37:37.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompraProducto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\CompraProducto.cs",
+              "RelativeDocumentMoniker": "MODELOS\\CompraProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\CompraProducto.cs",
+              "RelativeToolTip": "MODELOS\\CompraProducto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:09:54.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ClienteDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ClienteDAL.cs",
+              "RelativeToolTip": "DAL\\ClienteDAL.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:28:05.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComprasDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ComprasDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ComprasDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ComprasDAL.cs",
+              "RelativeToolTip": "DAL\\ComprasDAL.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAqwLIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:18:55.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TalleDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\TalleDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TalleDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\TalleDAL.cs",
+              "RelativeToolTip": "DAL\\TalleDAL.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:01:36.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Talle.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Talle.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Talle.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Talle.cs",
+              "RelativeToolTip": "MODELOS\\Talle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:52:41.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BETalle.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BETalle.cs",
+              "RelativeDocumentMoniker": "BE\\BETalle.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BETalle.cs",
+              "RelativeToolTip": "BE\\BETalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:49:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Marca.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Marca.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Marca.cs",
+              "RelativeToolTip": "MODELOS\\Marca.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:51:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs [Design]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\FE\\Cliente.cs",
+              "RelativeDocumentMoniker": "FE\\Cliente.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\FE\\Cliente.cs [Design]",
+              "RelativeToolTip": "FE\\Cliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:56:20.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BECliente.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BECliente.cs",
+              "RelativeDocumentMoniker": "BE\\BECliente.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BECliente.cs",
+              "RelativeToolTip": "BE\\BECliente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:44:38.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BEProveedor.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEProveedor.cs",
+              "RelativeDocumentMoniker": "BE\\BEProveedor.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEProveedor.cs",
+              "RelativeToolTip": "BE\\BEProveedor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:45:14.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BEMarca.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEMarca.cs",
+              "RelativeDocumentMoniker": "BE\\BEMarca.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEMarca.cs",
+              "RelativeToolTip": "BE\\BEMarca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:46:46.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BEProductos.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEProductos.cs",
+              "RelativeDocumentMoniker": "BE\\BEProductos.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BEProductos.cs",
+              "RelativeToolTip": "BE\\BEProductos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:49:26.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BETalleProducto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BETalleProducto.cs",
+              "RelativeDocumentMoniker": "BE\\BETalleProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BETalleProducto.cs",
+              "RelativeToolTip": "BE\\BETalleProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:50:30.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BECompras.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BECompras.cs",
+              "RelativeDocumentMoniker": "BE\\BECompras.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\BE\\BECompras.cs",
+              "RelativeToolTip": "BE\\BECompras.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:42:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VentasTallesDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\VentasTallesDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VentasTallesDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\VentasTallesDAL.cs",
+              "RelativeToolTip": "DAL\\VentasTallesDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:32:02.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VentasProductoDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\VentasProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VentasProductoDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\VentasProductoDAL.cs",
+              "RelativeToolTip": "DAL\\VentasProductoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:31:38.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VentaDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\VentaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VentaDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\VentaDAL.cs",
+              "RelativeToolTip": "DAL\\VentaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:30:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ComprasTallesDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ComprasTallesDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ComprasTallesDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ComprasTallesDAL.cs",
+              "RelativeToolTip": "DAL\\ComprasTallesDAL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:23:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ComprasProductosDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ComprasProductosDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ComprasProductosDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ComprasProductosDAL.cs",
+              "RelativeToolTip": "DAL\\ComprasProductosDAL.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:22:05.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TipoProductoDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\TipoProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TipoProductoDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\TipoProductoDAL.cs",
+              "RelativeToolTip": "DAL\\TipoProductoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:57:18.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProveedorDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ProveedorDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProveedorDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ProveedorDAL.cs",
+              "RelativeToolTip": "DAL\\ProveedorDAL.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:20:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TalleProductoDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\TalleProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TalleProductoDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\TalleProductoDAL.cs",
+              "RelativeToolTip": "DAL\\TalleProductoDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:02:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TalleProducto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\TalleProducto.cs",
+              "RelativeDocumentMoniker": "MODELOS\\TalleProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\TalleProducto.cs",
+              "RelativeToolTip": "MODELOS\\TalleProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:53:19.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Producto.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Producto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Producto.cs",
+              "RelativeToolTip": "MODELOS\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:52:09.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductoDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\DAL\\ProductoDAL.cs",
+              "RelativeToolTip": "DAL\\ProductoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:58:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VentaProducto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\VentaProducto.cs",
+              "RelativeDocumentMoniker": "MODELOS\\VentaProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\VentaProducto.cs",
+              "RelativeToolTip": "MODELOS\\VentaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:12:55.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Venta.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Venta.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Venta.cs",
+              "RelativeToolTip": "MODELOS\\Venta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:12:29.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TipoProducto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\TipoProducto.cs",
+              "RelativeDocumentMoniker": "MODELOS\\TipoProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\TipoProducto.cs",
+              "RelativeToolTip": "MODELOS\\TipoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:51:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MovimientoVenta.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\MovimientoVenta.cs",
+              "RelativeDocumentMoniker": "MODELOS\\MovimientoVenta.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\MovimientoVenta.cs",
+              "RelativeToolTip": "MODELOS\\MovimientoVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:14:18.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VentaTalle.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\VentaTalle.cs",
+              "RelativeDocumentMoniker": "MODELOS\\VentaTalle.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\VentaTalle.cs",
+              "RelativeToolTip": "MODELOS\\VentaTalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:13:20.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Proveedor.cs",
+              "RelativeDocumentMoniker": "MODELOS\\Proveedor.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\Proveedor.cs",
+              "RelativeToolTip": "MODELOS\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:15:02.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MovimientoCompra.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\MovimientoCompra.cs",
+              "RelativeDocumentMoniker": "MODELOS\\MovimientoCompra.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\MODELOS\\MovimientoCompra.cs",
+              "RelativeToolTip": "MODELOS\\MovimientoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T22:13:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormPadre.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\FormPadre.cs",
+              "RelativeDocumentMoniker": "FormPadre.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\FormPadre.cs",
+              "RelativeToolTip": "FormPadre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:25:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormPadre.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\ProyectoTienda\\TiendaRopa\\FormPadre.cs",
+              "RelativeDocumentMoniker": "FormPadre.cs",
+              "ToolTip": "C:\\Instituto80\\Algoritmos\\TiendaRopa\\FormPadre.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Instituto80\\Algoritmos\\TiendaRopa\\FormPadre.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:20:08.534Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleadosorigin\\empleadosorigin\\empleadosorigin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|solutionrelative:empleadosorigin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleadosorigin\\empleadosorigin\\empleadosorigin\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|solutionrelative:empleadosorigin\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\empleadosorigin\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|solutionrelative:empleadosorigin\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleadosorigin\\empleadosorigin\\empleadosorigin\\be\\empleadomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|solutionrelative:empleadosorigin\\be\\empleadomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleadosorigin\\empleadosorigin\\empleadosorigin\\be\\empleadoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1121F6-E5CE-43F2-BF0A-B30A6D57A3FE}|EmpleadosOrigin\\EmpleadosOrigin.csproj|solutionrelative:empleadosorigin\\be\\empleadoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 369,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\Program.cs",
+              "RelativeDocumentMoniker": "EmpleadosOrigin\\Program.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\Program.cs",
+              "RelativeToolTip": "EmpleadosOrigin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T23:55:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\FE\\Empleados.cs",
+              "RelativeDocumentMoniker": "EmpleadosOrigin\\FE\\Empleados.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\FE\\Empleados.cs",
+              "RelativeToolTip": "EmpleadosOrigin\\FE\\Empleados.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:02:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\FE\\Empleados.cs",
+              "RelativeDocumentMoniker": "EmpleadosOrigin\\FE\\Empleados.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\FE\\Empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EmpleadosOrigin\\FE\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:01:48.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoManager.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\BE\\EmpleadoManager.cs",
+              "RelativeDocumentMoniker": "EmpleadosOrigin\\BE\\EmpleadoManager.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\BE\\EmpleadoManager.cs",
+              "RelativeToolTip": "EmpleadosOrigin\\BE\\EmpleadoManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:39:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoC.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\BE\\EmpleadoC.cs",
+              "RelativeDocumentMoniker": "EmpleadosOrigin\\BE\\EmpleadoC.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\EmpleadosOrigin\\EmpleadosOrigin\\EmpleadosOrigin\\BE\\EmpleadoC.cs",
+              "RelativeToolTip": "EmpleadosOrigin\\BE\\EmpleadoC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T22:39:26.061Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

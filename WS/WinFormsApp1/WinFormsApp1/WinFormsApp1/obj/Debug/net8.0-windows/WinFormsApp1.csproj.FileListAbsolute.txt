@@ -1,0 +1,32 @@
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\amena\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.WS.resources
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.WS.resources
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\. USARCARPETA .!!!\..I.S.F.D. Y T. Nº80\proyectos\WS\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

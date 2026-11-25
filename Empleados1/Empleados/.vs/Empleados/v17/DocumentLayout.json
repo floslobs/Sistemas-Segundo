@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleados\\empleados\\empleados\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|solutionrelative:empleados\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleados\\empleados\\empleados\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|solutionrelative:empleados\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\empleados\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|solutionrelative:empleados\\fe\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleados\\empleados\\empleados\\be\\cargarempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|solutionrelative:empleados\\be\\cargarempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleados\\empleados\\empleados\\fe\\empleadoshs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|solutionrelative:empleados\\fe\\empleadoshs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\empleados\\empleados\\empleados\\fe\\horasempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B657FC-7E77-4FD6-96FD-73D4B122302E}|Empleados\\Empleados.csproj|solutionrelative:empleados\\fe\\horasempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\DAL\\conexion.cs",
+              "RelativeDocumentMoniker": "Empleados\\DAL\\conexion.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\DAL\\conexion.cs",
+              "RelativeToolTip": "Empleados\\DAL\\conexion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:05:03.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CargarEmpleados.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\BE\\CargarEmpleados.cs",
+              "RelativeDocumentMoniker": "Empleados\\BE\\CargarEmpleados.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\BE\\CargarEmpleados.cs",
+              "RelativeToolTip": "Empleados\\BE\\CargarEmpleados.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:56:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\Empleados.cs",
+              "RelativeDocumentMoniker": "Empleados\\FE\\Empleados.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\Empleados.cs",
+              "RelativeToolTip": "Empleados\\FE\\Empleados.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:05:03.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\Empleados.cs",
+              "RelativeDocumentMoniker": "Empleados\\FE\\Empleados.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\Empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Empleados\\FE\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:31:16.46Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HorasEmpleados.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\HorasEmpleados.cs",
+              "RelativeDocumentMoniker": "Empleados\\FE\\HorasEmpleados.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\HorasEmpleados.cs",
+              "RelativeToolTip": "Empleados\\FE\\HorasEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:27:16.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadosHs.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\EmpleadosHs.cs",
+              "RelativeDocumentMoniker": "Empleados\\FE\\EmpleadosHs.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\Empleados\\Empleados\\Empleados\\FE\\EmpleadosHs.cs",
+              "RelativeToolTip": "Empleados\\FE\\EmpleadosHs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:55:56.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\dal\\comprasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\dal\\comprasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\betalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\betalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\apptienda\\fe\\talles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\fe\\talles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\betalleproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\betalleproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\beproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\beproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\beproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\beproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\bemarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\bemarcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\becompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\becompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\be\\beclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\be\\beclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\dal\\marcasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\dal\\marcasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\fe\\cargarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\fe\\cargarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\apptienda\\fe\\realizarventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\fe\\realizarventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\dal\\talledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\dal\\talledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\apptienda\\fe\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\fe\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\apptienda\\fe\\apptienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\fe\\apptienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|c:\\. usarcarpeta .!!!\\..i.s.f.d. y t. n\u00BA80\\proyectos\\.apptienda\\apptienda\\apptienda\\fe\\apptienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347B0EF-98CE-48F2-98E1-82C346B8916A}|AppTienda\\AppTienda.csproj|solutionrelative:apptienda\\fe\\apptienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 369,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComprasDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\DAL\\ComprasDAL.cs",
+              "RelativeDocumentMoniker": "AppTienda\\DAL\\ComprasDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\DAL\\ComprasDAL.cs",
+              "RelativeToolTip": "AppTienda\\DAL\\ComprasDAL.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:26:26.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BETalles.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BETalles.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BETalles.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BETalles.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BETalles.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwFcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:22:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BETalleProducto.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BETalleProducto.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BETalleProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BETalleProducto.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BETalleProducto.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:22:18.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BEProveedores.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEProveedores.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BEProveedores.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEProveedores.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BEProveedores.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:22:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BEProductos.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEProductos.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BEProductos.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEProductos.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BEProductos.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:22:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BEMarcas.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEMarcas.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BEMarcas.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEMarcas.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BEMarcas.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:21:52.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BECompras.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BECompras.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BECompras.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BECompras.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BECompras.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:21:47.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BEClientes.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEClientes.cs",
+              "RelativeDocumentMoniker": "AppTienda\\BE\\BEClientes.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\BE\\BEClientes.cs",
+              "RelativeToolTip": "AppTienda\\BE\\BEClientes.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:20:29.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Talles.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\Talles.cs",
+              "RelativeDocumentMoniker": "AppTienda\\FE\\Talles.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\Talles.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FE\\Talles.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:31:17.632Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarcasDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\DAL\\MarcasDAL.cs",
+              "RelativeDocumentMoniker": "AppTienda\\DAL\\MarcasDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\DAL\\MarcasDAL.cs",
+              "RelativeToolTip": "AppTienda\\DAL\\MarcasDAL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:21:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RealizarVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\RealizarVentas.cs",
+              "RelativeDocumentMoniker": "AppTienda\\FE\\RealizarVentas.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\RealizarVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FE\\RealizarVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:47:06.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TalleDAL.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\DAL\\TalleDAL.cs",
+              "RelativeDocumentMoniker": "AppTienda\\DAL\\TalleDAL.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\DAL\\TalleDAL.cs",
+              "RelativeToolTip": "AppTienda\\DAL\\TalleDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:38:13.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\Clientes.cs",
+              "RelativeDocumentMoniker": "AppTienda\\FE\\Clientes.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FE\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:28:06.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppTienda.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\AppTienda.cs",
+              "RelativeDocumentMoniker": "AppTienda\\FE\\AppTienda.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\AppTienda.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FE\\AppTienda.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:26:45.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CargarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\CargarProducto.cs",
+              "RelativeDocumentMoniker": "AppTienda\\FE\\CargarProducto.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\CargarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppTienda\\FE\\CargarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:26:42.459Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppTienda.cs",
+              "DocumentMoniker": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\AppTienda.cs",
+              "RelativeDocumentMoniker": "AppTienda\\FE\\AppTienda.cs",
+              "ToolTip": "C:\\. USARCARPETA .!!!\\..I.S.F.D. Y T. N\u00BA80\\proyectos\\.AppTienda\\AppTienda\\AppTienda\\FE\\AppTienda.cs",
+              "RelativeToolTip": "AppTienda\\FE\\AppTienda.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:27:08.472Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 31,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

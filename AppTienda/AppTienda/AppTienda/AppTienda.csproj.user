@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FE\AppTienda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FE\CargarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FE\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FE\Marcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FE\RealizarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FE\Talles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FE\VerVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
